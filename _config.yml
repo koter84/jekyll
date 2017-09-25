@@ -12,16 +12,16 @@ email: koter84@gmail.com
 #logo: "/assets/images/logo.jpg"
 # blog cover
 #cover: "/assets/images/cover.jpg"
-cover: "/assets/images/cover_small.jpg"
+cover: "/jekyll/assets/images/cover_small.jpg"
 
 name: 'Dennis'
 author: 'Dennis'
-author_image: "/assets/images/author.jpg"
+author_image: "/jekyll/assets/images/author.jpg"
 
 # number of posts per page
 paginate: 5
 
-url: "http://koter84.github.io" # the base hostname & protocol for your site
+url: "http://koter84.github.io/jekyll" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
